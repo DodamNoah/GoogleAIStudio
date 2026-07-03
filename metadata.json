@@ -1,0 +1,6 @@
+{
+  "name": "React Test App",
+  "description": "A beautifully designed, interactive React testbench and utility sandbox to verify React rendering, state management, and Tailwind CSS utility classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
