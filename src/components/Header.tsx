@@ -22,6 +22,9 @@ export default function Header() {
             <h1 className="font-sans text-xl font-bold tracking-tight text-gray-900">
               React Interactive Test Bench
             </h1>
+            <span className="rounded-md bg-blue-50 px-1.5 py-0.5 text-[10px] font-semibold text-blue-700 border border-blue-200">
+              Commit-ready
+            </span>
           </div>
           <p className="mt-1 text-xs text-gray-500">
             A sandbox for testing React 19 hooks, component lifecycle updates, state performance, and styling.
